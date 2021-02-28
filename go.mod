@@ -1,3 +1,3 @@
-module github.com/benbjohnson/ego
+module github.com/daaku/ego
 
 go 1.13
